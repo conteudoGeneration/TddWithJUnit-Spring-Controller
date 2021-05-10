@@ -1,4 +1,4 @@
-package integracao.rest.controller;
+package com.generation.Junit4.controller;
 
 import java.util.List;
 
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import integracao.rest.model.ContatoModel;
-import integracao.rest.repository.ContatoRepository;
+import com.generation.Junit4.model.ContatoModel;
+import com.generation.Junit4.repository.ContatoRepository;
 
 @RestController
 @RequestMapping("/contatos")

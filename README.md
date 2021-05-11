@@ -303,6 +303,10 @@ public class Teste {
 }
 ````
 
+## Para testar o app
+
+![alt text](https://i.imgur.com/hQ2eFrI.png)
+
 ### Qualquer duvida não esqueça de pesquisar dentro projeto guia do gitHub
 
 ![enter image description here](https://i.imgur.com/uHzMYJN.png)
